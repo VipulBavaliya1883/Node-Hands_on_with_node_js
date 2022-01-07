@@ -4,4 +4,4 @@ var sum = (a, b) => {
 
 var name = "RKU";
 
-module.exports = { sum, name, branch };
+module.exports = { sum, name};
